@@ -1,0 +1,90 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KATARASU BOT — Terms of Service</title>
+    <style>
+        body {
+            background: #0d0d0d;
+            color: #e8e8e8;
+            font-family: Arial, sans-serif;
+            max-width: 850px;
+            margin: 0 auto;
+            padding: 50px 25px;
+            line-height: 1.7;
+        }
+        h1, h2 {
+            color: #ffffff;
+        }
+        h1 {
+            border-bottom: 1px solid #333;
+            padding-bottom: 20px;
+        }
+        p {
+            color: #c8c8c8;
+        }
+    </style>
+</head>
+<body>
+
+<h1>KATARASU BOT — Terms of Service</h1>
+
+<p>Last updated: September 28, 2026</p>
+
+<h2>1. About KATARASU BOT</h2>
+<p>
+KATARASU BOT is a personal content management and publishing tool used to
+prepare, manage, and publish original music and video content created by Katarasu
+to supported social media and content platforms.
+</p>
+
+<h2>2. Use of the Service</h2>
+<p>
+KATARASU BOT is intended for managing and publishing content owned by or
+authorized for use by the operator of KATARASU BOT.
+</p>
+
+<p>
+The service must not be used to publish content that violates applicable laws,
+third-party rights, or the rules and policies of connected platforms.
+</p>
+
+<h2>3. Third-Party Platforms</h2>
+<p>
+KATARASU BOT may interact with third-party services such as social media and
+content platforms through their official APIs and authorization systems.
+Use of those platforms remains subject to their respective terms, policies,
+and restrictions.
+</p>
+
+<h2>4. Content Responsibility</h2>
+<p>
+The operator of KATARASU BOT is responsible for ensuring that uploaded content
+can legally be published and that all necessary rights and permissions have
+been obtained.
+</p>
+
+<h2>5. Availability</h2>
+<p>
+KATARASU BOT is provided on an as-available basis. Features may change,
+be interrupted, or become unavailable due to changes in connected platforms,
+APIs, or other technical circumstances.
+</p>
+
+<h2>6. Changes to These Terms</h2>
+<p>
+These Terms of Service may be updated when the functionality or operation of
+KATARASU BOT changes.
+</p>
+
+<h2>7. Contact</h2>
+<p>
+Questions regarding these Terms of Service may be directed to the operator
+of KATARASU BOT through the official Katarasu channels.
+</p>
+
+</body>
+</html>
+```
